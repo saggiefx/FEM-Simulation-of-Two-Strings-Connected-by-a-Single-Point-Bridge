@@ -1,0 +1,2 @@
+# FEM-Simulation-of-Two-Strings-Connected-by-a-Single-Point-Bridge
+This project is part of the course I am taking on Musical Instruments Modelling. Throughout the course we learned how to simulate the string sound by using finite element modelling method. In this project I tried to extend the concept to extend the model to simulate two stings oscillation and energy transfer through a simple bridge element .
